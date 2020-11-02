@@ -1,5 +1,5 @@
-<h1 style=text-align:"center"> 👋 ¡¡¡ Hello World !!! 👋 </h1>
-<h3>My name is . . .</h3>
+# 👋 ¡¡¡ Hello World !!! 👋
+## My name is . . .
 
 
 ![GitHub](https://imgur.com/1GlksON.png)
