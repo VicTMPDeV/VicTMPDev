@@ -6,3 +6,5 @@
 
 <p style="text-align: center;">In this personal repository I'm gonna share all my latest code and some old personal projects. Everyone on GitHub can use them the way they want to. If anyone also wants to improve something, it would be nice for me too!! <em>(I'm aware of my coding shortcomings as a junior developer)</em>. </p>
 
+<p style="text-align: center;">In addition to developing, I like doing sports, enjoy the nature, watch good movies and share time with my friends (One of them has the most useful repository that you can ever find to learn, because he is computing teacher, he was my teacher two years ago, and now I considere him my friend because he is a nice guy. You can find him at GitHub as <em>joseluisgs</em>). </p>
+
