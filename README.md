@@ -1,4 +1,4 @@
-<h1> 👋 ¡¡¡ Hello World !!! 👋 </h1>
+<h1 style=text-align:"center"> 👋 ¡¡¡ Hello World !!! 👋 </h1>
 <h3>My name is . . .</h3>
 
 
