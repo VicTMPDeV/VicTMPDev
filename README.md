@@ -28,3 +28,6 @@
 
 # My Favourite Languages & Technologies
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact)
+
