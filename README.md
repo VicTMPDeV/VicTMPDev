@@ -51,26 +51,15 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="Firebase" height="50">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-  height="30">
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="30">
-  <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-7-1.png" 
-  height="30">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png" 
-  height="30">
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="50">
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ" height="50">
   <img src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" 
-  height="30">
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" 
   height="30">
   <img src="https://image.flaticon.com/icons/png/512/873/873120.png" 
   height="30">
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" 
   height="30">
 </p>
-
-
-
 
 # My Activity
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
