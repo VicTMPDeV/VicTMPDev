@@ -18,13 +18,13 @@
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git" height="50">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://imgur.com/m9LSu9k.png" alt="Angular" height="60">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VUE" height="50">
   &nbsp;&nbsp;&nbsp;
   <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="80">
