@@ -41,7 +41,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-angular" alt="Angular" height="50">
+  <img src="https://imgur.com/beKta89.png" alt="Angular" height="50">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VUE" height="50">
   &nbsp;&nbsp;&nbsp;
