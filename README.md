@@ -22,9 +22,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="60">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="60">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
   &nbsp;&nbsp;&nbsp;
   <img src="https://imgur.com/beKta89.png" alt="Angular" height="50">
@@ -34,7 +34,7 @@
   <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="80">
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="75">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="50">
@@ -46,6 +46,7 @@
 
 # Contact
 
+<br/>
 <p align="left">
     <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
         <img src="https://imgur.com/UEvZREq.png" 
