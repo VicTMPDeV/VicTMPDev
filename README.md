@@ -52,7 +52,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCPqWCyzQhrjwwTFlYoFwxfg">
-    <img src="https://imgur.com/ScXG82M.png" height="50">
+    <img src="https://imgur.com/ScXG82M.png" height="75">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
