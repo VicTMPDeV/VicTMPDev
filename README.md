@@ -79,4 +79,5 @@
 # My Activity
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact)
+⭐️ From [sorayaleon](https://github.com/sorayaleon)
 
