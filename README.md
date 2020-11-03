@@ -10,15 +10,13 @@
 
 # Contact
 
-[![email](https://imgur.com/UEvZREq)](mailto:victor.mp.developer@gmail.com) 
-
 <p align="left">
+    <a href="mailto:victor.mp.developer@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+    height="50"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="50">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+        <img src="https://imgur.com/UEvZREq" 
     height="50">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     
