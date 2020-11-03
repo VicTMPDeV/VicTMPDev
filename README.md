@@ -14,9 +14,15 @@
     <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
         <img src="https://imgur.com/UEvZREq.png" 
     height="50">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:victor.mp.developer@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/VictorDevelop" target="_blank">
+        <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
+    height="50">
+    </a>
 </p>
 
