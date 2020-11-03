@@ -79,6 +79,6 @@
 # My Activity
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=yeblu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev)
 
 
