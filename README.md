@@ -42,7 +42,7 @@
 # Contact
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="mailto:victor.mp.developer@gmail.com">
     <img src="https://imgur.com/UEvZREq.png" height="50">
   </a>
@@ -59,6 +59,7 @@
     <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="50">
   </a>
 </p>
+<br/>
 
 
 
