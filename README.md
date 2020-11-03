@@ -78,7 +78,7 @@
 
 # My Activity
 
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&theme=dracula)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&theme=nord)
 
 
