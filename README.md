@@ -14,7 +14,7 @@
 
 # Languages & Technologies of Interest
 
-<p align="left">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git" height="50">
