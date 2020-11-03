@@ -77,7 +77,7 @@
 
 
 # My Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 
 
