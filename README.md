@@ -31,7 +31,7 @@
 <p align="left">
   <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="75">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="50">
+  <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
   &nbsp;&nbsp;&nbsp;
