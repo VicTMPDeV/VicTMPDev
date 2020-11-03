@@ -29,25 +29,24 @@
 # Languages & Technologies of Interest
 
 <p align="left">
-  <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git" height="50">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="50">
+  <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="75">
   &nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="50">
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
   &nbsp;&nbsp;&nbsp;
+  <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="75">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VUE" height="50">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="50">
-  &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" height="50">
-  
-  
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" 
-  height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" 
-  height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git" height="50">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="Firebase" height="50">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30">
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
