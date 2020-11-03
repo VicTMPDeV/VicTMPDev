@@ -8,23 +8,9 @@
 
 <p style="text-align: center;">In addition to develope and codify, I like to do sports, enjoy the nature, walking on the beach, on the woods near the rivers. I don't like too much watch TV, but I like good movies. I love to share time with my family and friends (One of them has the most useful repository that you can ever find to learn, because he is computing teacher, he was my teacher two years ago, and now I considere him my friend because he is a nice guy. You can find him at GitHub as &nbsp;<em><a href="https://github.com/joseluisgs" target="_blank">joseluisgs</a></em>). </p>
 
-# Contact
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
-        <img src="https://imgur.com/UEvZREq.png" 
-    height="50">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:victor.mp.developer@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="50"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/VictorDevelop" target="_blank">
-        <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
-    height="50">
-    </a>
-</p>
+# My Activity
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 
 # Languages & Technologies of Interest
 
@@ -57,6 +43,24 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-# My Activity
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
+
+# Contact
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">
+        <img src="https://imgur.com/UEvZREq.png" 
+    height="50">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:victor.mp.developer@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+    height="50"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/VictorDevelop" target="_blank">
+        <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" 
+    height="50">
+    </a>
+</p>
+
+
+
