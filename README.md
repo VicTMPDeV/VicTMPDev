@@ -207,14 +207,14 @@
   </a> 
 </p>
 <br/>
-<h2 align="center">My Activity</h2>
-
+<h1 align="center">My Activity</h1>
+<br/>
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 
 <p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor" alt="victor" /></a> </p>
-
-<h2 align="center">Contact</h2>
+<br/>
+<h1 align="center">Contact</h1>
 
 <br/>
 <p align="center">
