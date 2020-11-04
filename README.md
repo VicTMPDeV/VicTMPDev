@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
+
 # ¡¡¡ Hello :earth_africa: !!! 👋 &nbsp;=> &nbsp;I am . . .
 
 ![GitHub](https://imgur.com/h3xpMSR.png) 
@@ -9,7 +11,6 @@
 <p style="text-align: center;">In addition to develope and codify, I like to do sports, enjoy the nature, walking on the beach, on the woods near the rivers. I don't like too much watch TV, but I like good movies. I love to share time with my family and friends (One of them has the most useful repository that you can ever find to learn, because he is computing teacher, he was my teacher two years ago, and now I considere him my friend because he is a nice guy. You can find him at GitHub as &nbsp;<em><a href="https://github.com/joseluisgs" target="_blank">joseluisgs</a></em>). </p>
 
 # My Activity
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
