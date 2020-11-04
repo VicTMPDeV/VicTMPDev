@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-<h1 >¡¡¡ Hello :earth_africa: !!! 👋 &nbsp;=> &nbsp;I am . . .</h1>
-</div>
-
+<h1 align="center">¡¡¡ Hello :earth_africa: !!! 👋 &nbsp;=> &nbsp;I am . . .</h1>
 
 ![GitHub](https://imgur.com/h3xpMSR.png) 
 
