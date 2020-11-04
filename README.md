@@ -193,7 +193,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/> 
+    <img src="https://imgur.com/55Cf42k.png" alt="photoshop" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
