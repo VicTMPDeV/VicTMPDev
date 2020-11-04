@@ -191,11 +191,9 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="50"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank"> 
     <img src="https://imgur.com/55Cf42k.png" alt="photoshop" height="50"/> 
   </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="50"/> 
   </a> 
@@ -208,8 +206,8 @@
     <img src="https://imgur.com/jhSaBnv.png" alt="wordpress" height="50"/> 
   </a> 
 </p>
-
-<h2>My Activity</h2>
+<br/>
+<h2 align="center">My Activity</h2>
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
