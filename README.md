@@ -13,7 +13,7 @@
 # I am interested in . . .
 
 <h2 align="center">Programming Languages</h2>
-
+<br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
@@ -41,7 +41,7 @@
 </p>
 
 <h2 align="center">Frontend Development</h2>
-
+<br/>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> 
