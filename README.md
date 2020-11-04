@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="75"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="60"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -36,7 +36,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="60"/> 
   </a> 
 </p>
 
@@ -71,7 +71,7 @@
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuetifyjs.com/en/" target="_blank"> 
