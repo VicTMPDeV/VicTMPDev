@@ -109,27 +109,27 @@
 <br/>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" height="65"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="65"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://mariadb.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.h2database.com/html/main.html" target="_blank"> 
