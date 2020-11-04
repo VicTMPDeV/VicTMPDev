@@ -139,13 +139,13 @@
 
 <h2 align="center">DevOps</h2>
 <br/>
-<p align="center">
+<p>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="75"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="85"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
@@ -157,9 +157,9 @@
   </a> 
 </p>
 
-<h2 align="center">Backend as a Service (BaaS)</h2>
+<h2>Backend as a Service (BaaS)</h2>
 <br/>
-<p align="center">
+<p>
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> 
   </a>
@@ -169,9 +169,9 @@
   </a>
 </p>
 
-<h2 align="center">Another Software</h2>
+<h2>Another Software</h2>
 <br/>
-<p align="center">
+<p>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> 
   </a>
@@ -209,7 +209,7 @@
   </a> 
 </p>
 
-<h2 align="center">My Activity</h2>
+<h2>My Activity</h2>
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
