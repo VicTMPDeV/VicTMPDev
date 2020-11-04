@@ -10,11 +10,11 @@
 
 
 
-# I am interested in . . .
+<h1 align="center">I am interested in . . .</h1>
 
-<h2 align="center">Programming Languages</h2>
+<h2>Programming Languages</h2>
 <br/>
-<p align="center">
+<p >
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="70"/> 
   </a> 
@@ -40,9 +40,9 @@
   </a> 
 </p>
 
-<h2 align="center">Frontend Development</h2>
+<h2>Frontend Development</h2>
 <br/>
-<p align="center">
+<p>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="55"/> 
   </a> 
@@ -83,9 +83,9 @@
   </a> 
 </p>
 
-<h2 align="center">Backend Development & FrameWorks</h2>
+<h2>Backend Development & FrameWorks</h2>
 
-<p align="center">
+<p>
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
   </a>
@@ -105,9 +105,9 @@
   </a> 
 </p>
 
-<h2 align="center">Database</h2>
+<h2>Database</h2>
 <br/>
-<p align="center">
+<p>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="70"/> 
   </a>
@@ -137,7 +137,7 @@
   </a> 
 </p>
 
-<h2 align="center">DevOps</h2>
+<h2>DevOps</h2>
 <br/>
 <p>
   <a href="https://www.docker.com/" target="_blank"> 
