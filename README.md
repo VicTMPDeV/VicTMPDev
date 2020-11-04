@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="75"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -32,7 +32,7 @@
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" height="50"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
