@@ -26,12 +26,15 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="50"/> 
   </a> 
@@ -43,12 +46,15 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50"/> 
   </a> 
@@ -71,9 +77,15 @@
 ## Backend Development
 
 <p align="center">
-  <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="80">
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
+  </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="80"/> 
+  </a> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -209,9 +221,7 @@
 
 
 
-<a href="https://nodejs.org" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50"/> 
-</a> 
+
 
 <a href="https://www.photoshop.com/en" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/> 
@@ -225,9 +235,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="50"/> 
 </a> 
 
-<a href="https://spring.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
-</a> 
+
 
 <a href="https://vuejs.org/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50"/> 
