@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
-
 # ¡¡¡ Hello :earth_africa: !!! 👋 &nbsp;=> &nbsp;I am . . .
 
 ![GitHub](https://imgur.com/h3xpMSR.png) 
@@ -65,6 +63,7 @@
   </a>
 </p>
 <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
