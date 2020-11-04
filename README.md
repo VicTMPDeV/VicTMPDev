@@ -208,7 +208,9 @@
 </p>
 <br/>
 <h1 align="center">My Activity</h1>
+
 <br/>
+
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 
