@@ -1,5 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
 # ¡¡¡ Hello :earth_africa: !!! 👋 &nbsp;=> &nbsp;I am . . .
+
 ![GitHub](https://imgur.com/h3xpMSR.png) 
 <p style="text-align: center;">My name is  <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">Víctor Morales Pérez</a>. I'm a spanish Junior Developer who started to learn about software development about four years ago. <em>(before of that I use to work as a Building Engeneer and CG Designer)</em>. Nowadays I'm interested in acquiring new knowledge about Front-End Development, because I like so much Graphic Design <em>(as you can see in my self-made profile logos)</em>.</p>
 
