@@ -97,7 +97,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50"/> 
   </a> 
 </p>
-<h2>Database</h2>
+<h2>Databases</h2>
 <br/>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
