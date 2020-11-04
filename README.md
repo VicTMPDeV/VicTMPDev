@@ -213,10 +213,10 @@
 
   
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&theme=vue-dark)
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor" alt="victor" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VicTMPDev&theme=vue-dark" alt="victor" /></a> 
 </p>
 <br/>
 <h1 align="center">Contact</h1>
