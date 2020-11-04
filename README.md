@@ -78,7 +78,6 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" height="50"/> 
   </a> 
-  &nbsp;
   <a href="https://canvasjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="50"/> 
   </a> 
