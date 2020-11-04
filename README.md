@@ -138,7 +138,6 @@
 </p>
 
 <h2>DevOps</h2>
-<br/>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> 
