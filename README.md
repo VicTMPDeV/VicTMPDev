@@ -40,7 +40,7 @@
   </a> 
 </p>
 
-## Frontend Development
+<h2 align="center">Frontend Development</h2>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -84,7 +84,7 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-## Backend Development & FrameWorks
+<h2 align="center">Backend Development & FrameWorks</h2>
 
 <p align="center">
   <a href="https://spring.io/" target="_blank">
@@ -106,8 +106,7 @@
   </a> 
 </p>
 
-
-## Database
+<h2 align="center">Database</h2>
 
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
@@ -139,7 +138,7 @@
   </a> 
 </p>
 
-## DevOps
+<h2 align="center">DevOps</h2>
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
@@ -159,7 +158,7 @@
   </a> 
 </p>
 
-## Backend as a Service (BaaS)
+<h2 align="center">Backend as a Service (BaaS)</h2>
 
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank"> 
@@ -171,7 +170,7 @@
   </a>
 </p>
 
-## Another Software
+<h2 align="center">Another Software</h2>
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
@@ -211,40 +210,14 @@
   </a> 
 </p>
 
-## DUMMY
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" alt="Git" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://imgur.com/m9LSu9k.png" alt="Angular" height="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VUE" height="50">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" alt="NODEJS" height="80">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="75">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="Firebase" height="50">
-</p>
-
-# My Activity
+<h2 align="center">My Activity</h2>
 
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 
 <p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor" alt="victor" /></a> </p>
 
-# Contact
+<h2 align="center">Contact</h2>
 
 <br/>
 <p align="center">
@@ -266,53 +239,3 @@
 </p>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-   
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
