@@ -10,8 +10,10 @@
 
 # My Activity
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor&label=Profile%20views&color=0e75b6&style=flat" alt="victor" /> </p>
+
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor" alt="victor" /></a> </p>
 
 # Languages & Technologies of Interest
