@@ -106,6 +106,12 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/> 
+  </a>
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="50"/> 
+  </a> 
+  <a href="https://www.h2database.com/html/main.html" target="_blank"> 
+    <img src="https://imgur.com/kTkGWiX.png" alt="h2" height="50"/> 
   </a> 
 </p>
 
@@ -231,9 +237,7 @@
 <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
 </a> 
-<a href="https://redis.io" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="50"/> 
-</a> 
+
 
 
 
