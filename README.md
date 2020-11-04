@@ -205,7 +205,7 @@
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://es.wordpress.org/" target="_blank"> 
-    <img src="https://es.wikipedia.org/wiki/WordPress.com#/media/Archivo:WordPress_blue_logo.svg" alt="wordpress" height="50"/> 
+    <img src="https://imgur.com/jhSaBnv.png" alt="wordpress" height="50"/> 
   </a> 
 </p>
 
