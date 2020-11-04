@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="60"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="65"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -28,11 +28,11 @@
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
@@ -44,11 +44,11 @@
 <br/>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank"> 
@@ -89,7 +89,7 @@
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
   &nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"> 
