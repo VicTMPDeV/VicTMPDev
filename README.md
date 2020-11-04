@@ -210,11 +210,12 @@
 <h1 align="center">My Activity</h1>
 
 <br/>
-<p align="center">
+
   
 ![Estadisticas](https://github-readme-stats.vercel.app/api?username=VicTMPDev&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicTMPDev&layout=compact&theme=vue-dark)
 
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victor" alt="victor" /></a> 
 </p>
 <br/>
