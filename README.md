@@ -94,7 +94,7 @@
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
   &nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="80"/> 
+    <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"  alt="nodejs" height="80"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
