@@ -68,7 +68,7 @@
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs" height="45"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuetifyjs.com/en/" target="_blank"> 
@@ -78,7 +78,7 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" height="50"/> 
   </a> 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://canvasjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="50"/> 
   </a> 
