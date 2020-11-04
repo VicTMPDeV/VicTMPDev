@@ -3,13 +3,9 @@
 ![GitHub](https://imgur.com/h3xpMSR.png) 
 
 <p align="justify">My name is  <a href="https://www.linkedin.com/in/victormoralesperez" target="_blank">Víctor Morales Pérez</a>. I'm a spanish Junior Developer who started to learn about software development about four years ago. <em>(before of that I use to work as a Building Engeneer and CG Designer)</em>. Nowadays I'm interested in acquiring new knowledge about Front-End Development, because I like so much Graphic Design <em>(as you can see in my self-made profile logos)</em>.</p>
-
 <p align="justify">In this personal repository I'm gonna share all my latest code and some old personal projects. Everyone on GitHub can use them the way they want to. If anyone also wants to improve something, it would be nice for me too!! <em>(I'm aware of my coding shortcomings as a junior developer)</em>. </p>
-
 <p align="justify">In addition to develope and codify, I like to do sports, enjoy the nature, walking on the beach, on the woods near the rivers. I don't like too much watch TV, but I like good movies. I love to share time with my family and friends (One of them has the most useful repository that you can ever find to learn, because he is computing teacher, he was my teacher two years ago, and now I considere him my friend because he is a nice guy. You can find him at GitHub as &nbsp;<em><a href="https://github.com/joseluisgs" target="_blank">joseluisgs</a></em>).</p>
-
-
-
+<br/>
 <h1 align="center">I am interested in . . .</h1>
 <br/>
 <h2>Programming Languages</h2>
@@ -39,7 +35,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="60"/> 
   </a> 
 </p>
-
 <h2>Frontend Development</h2>
 <br/>
 <p align="center">
@@ -82,9 +77,7 @@
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="50"/> 
   </a> 
 </p>
-
 <h2>Backend Development & FrameWorks</h2>
-
 <p align="center">
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
@@ -104,7 +97,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50"/> 
   </a> 
 </p>
-
 <h2>Database</h2>
 <br/>
 <p align="center">
@@ -136,7 +128,6 @@
     <img src="https://imgur.com/kTkGWiX.png" alt="h2" height="50"/> 
   </a> 
 </p>
-
 <h2>DevOps</h2>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
@@ -155,7 +146,6 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="60"/> 
   </a> 
 </p>
-
 <h2>Backend as a Service (BaaS)</h2>
 <br/>
 <p align="center">
@@ -167,7 +157,6 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50"/> 
   </a>
 </p>
-
 <h2>Another Software</h2>
 <br/>
 <p align="center">
