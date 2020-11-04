@@ -42,7 +42,7 @@
 
 <h2>Frontend Development</h2>
 <br/>
-<p>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="55"/> 
   </a> 
@@ -85,7 +85,7 @@
 
 <h2>Backend Development & FrameWorks</h2>
 
-<p>
+<p align="center">
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
   </a>
@@ -107,7 +107,7 @@
 
 <h2>Database</h2>
 <br/>
-<p>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="70"/> 
   </a>
@@ -139,7 +139,7 @@
 
 <h2>DevOps</h2>
 <br/>
-<p>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> 
   </a> 
@@ -159,7 +159,7 @@
 
 <h2>Backend as a Service (BaaS)</h2>
 <br/>
-<p>
+<p align="center">
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> 
   </a>
@@ -171,7 +171,7 @@
 
 <h2>Another Software</h2>
 <br/>
-<p>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> 
   </a>
