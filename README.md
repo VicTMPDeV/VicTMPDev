@@ -11,10 +11,10 @@
 
 
 <h1 align="center">I am interested in . . .</h1>
-
+<br/>
 <h2>Programming Languages</h2>
 <br/>
-<p >
+<p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="70"/> 
   </a> 
