@@ -70,11 +70,21 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VUE" height="50">
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vuetifyjs.com/en/" target="_blank"> 
+    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://webpack.js.org" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" height="50"/> 
+  </a> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
-## Backend Development
+## Backend Development & FrameWorks
 
 <p align="center">
   <a href="https://spring.io/" target="_blank">
@@ -87,7 +97,15 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="80"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50"/> 
+  </a> 
 </p>
+
 
 ## Database
 
@@ -95,23 +113,101 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.oracle.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" height="50"/> 
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="50"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.h2database.com/html/main.html" target="_blank"> 
     <img src="https://imgur.com/kTkGWiX.png" alt="h2" height="50"/> 
+  </a> 
+</p>
+
+## DevOps
+
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> 
+  </a> 
+</p>
+
+## Backend as a Service (BaaS)
+
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50"/> 
+  </a>
+</p>
+
+## Another Software
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="50"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.blender.org/" target="_blank"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="50"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vuepress.vuejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" height="50"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://es.wordpress.org/" target="_blank"> 
+    <img src="https://es.wikipedia.org/wiki/WordPress.com#/media/Archivo:WordPress_blue_logo.svg" alt="wordpress" height="50"/> 
   </a> 
 </p>
 
@@ -177,19 +273,10 @@
 
 
 
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="50"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> 
-  </a> 
-  
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="50"/> 
-  </a> 
+
+
+
+
   
   
   
@@ -197,65 +284,35 @@
   
   
   
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="50"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50"/> 
-  </a> 
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="50"/> 
-</a> 
-
-
-<a href="https://laravel.com/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="50"/> 
-</a> 
+  
+  
+  
+  
+   
 
 
 
 
 
-<a href="https://www.photoshop.com/en" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="50"/> 
-</a> 
-
-
-<a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
-</a> 
+ 
 
 
 
 
-<a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50"/> 
-</a> 
-<a href="https://vuepress.vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" height="50"/> 
-</a> 
-<a href="https://vuetifyjs.com/en/" target="_blank"> 
-  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> 
-</a> 
-<a href="https://webpack.js.org" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" height="50"/> 
-</a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="50"/> 
-</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
