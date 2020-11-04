@@ -12,7 +12,7 @@
 
 # Interested in . . .
 
-## Programming Languages
+<h2 align="center">Programming Languages</h2>
 
 <p align="center">
   <img src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" alt="JAVA" height="75">
