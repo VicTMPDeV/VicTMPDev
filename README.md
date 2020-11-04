@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="65"/> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="70"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -106,7 +106,7 @@
 </p>
 
 <h2 align="center">Database</h2>
-
+<br/>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -138,7 +138,7 @@
 </p>
 
 <h2 align="center">DevOps</h2>
-
+<br/>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/> 
@@ -158,7 +158,7 @@
 </p>
 
 <h2 align="center">Backend as a Service (BaaS)</h2>
-
+<br/>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> 
@@ -170,10 +170,14 @@
 </p>
 
 <h2 align="center">Another Software</h2>
-
+<br/>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"> 
@@ -182,10 +186,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.blender.org/" target="_blank"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
