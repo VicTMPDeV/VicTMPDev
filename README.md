@@ -12,69 +12,46 @@
 <br/>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="70"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="70"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> 
   </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="55"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" height="55"/> 
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="60"/> 
   </a> 
 </p>
 <h2>Frontend Development</h2>
 <br/>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="55"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="55"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bulma.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="50"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="55"/>
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs" height="45"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://webpack.js.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" height="50"/> 
-  </a> 
-  <a href="https://canvasjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="50"/> 
   </a> 
 </p>
 <h2>Backend Development & FrameWorks</h2>
