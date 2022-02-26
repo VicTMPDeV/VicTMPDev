@@ -59,7 +59,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" height="55"/> 
+ 
+
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="angularjs" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"> 
@@ -88,14 +91,8 @@
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"  alt="nodejs" height="80"/> 
   </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="50"/> 
-  </a> 
+
+ 
 </p>
 <h2>Databases</h2>
 <br/>
