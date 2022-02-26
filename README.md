@@ -23,11 +23,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"  alt="nodejs" height="80"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="60"/> 
   </a> 
 </p>
-<h2>Frontend Development</h2>
+<h2>Web Development</h2>
 <br/>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -38,49 +42,39 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" height="55"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="50"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" height="50"/> 
+  </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bulma.io/" target="_blank"> 
+  <a href="https://tailwindcss.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="50"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<h2>FrameWorks</h2>
+<p align="center">
   <a href="https://angular.io" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" height="55"/>
   </a> 
-</p>
-<h2>Backend Development & FrameWorks</h2>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/300/1*J9d-VtiLfN9APIQgWTP9ow.png" alt="SpringBoot" height="55">
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"  alt="nodejs" height="80"/> 
-  </a> 
-
- 
 </p>
 <h2>Databases</h2>
 <br/>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="70"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" height="70"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="70"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mariadb.org/" target="_blank"> 
@@ -88,11 +82,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="55"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" height="55"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.h2database.com/html/main.html" target="_blank"> 
@@ -102,20 +96,16 @@
 <h2>DevOps</h2>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="85"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="85"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="60"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="60"/> 
-  </a> 
+  </a>
 </p>
 <h2>Backend as a Service (BaaS)</h2>
 <br/>
@@ -137,10 +127,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="50"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.blender.org/" target="_blank"> 
@@ -155,14 +141,6 @@
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vuepress.vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" height="50"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://es.wordpress.org/" target="_blank"> 
-    <img src="https://imgur.com/jhSaBnv.png" alt="wordpress" height="50"/> 
   </a> 
 </p>
 <br/>
