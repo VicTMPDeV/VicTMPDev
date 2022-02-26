@@ -59,7 +59,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="angular" height="55"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank"> 
